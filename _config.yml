@@ -40,6 +40,8 @@ tile-pages:
   - enrollment.md
   - mission.md
   - team.md
+  - parents.md
+  - board.md
 
 ## running the site on gitlab requires the following setting, comment out when running in vagrant
-baseurl: "cdc" # the subpath of your site, e.g. /blog
+# baseurl: "cdc" # the subpath of your site, e.g. /blog

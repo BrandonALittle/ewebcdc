@@ -20,7 +20,7 @@ summary:
 
 sections:
     - title: Admin Team and Support
-      image: assets/images/kids01.jpg
+      image: assets/images/kids04.jpg
       link: admin_team.html
       linktext: Meet Us
       content:

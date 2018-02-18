@@ -29,28 +29,43 @@
 
 		{% if page.sections %}
 			<section id="two" class="spotlights">
-
         {% for section in page.sections %}
-					<section>
-						<a href="#" class="image">
-							<img src="{{ section.image | relative_url }}" alt="" data-position="center center" />
-						</a>
-						<div class="content">
-							<div class="inner">
-								<header class="major">
-									<h3>{{ section.title }}</h3>
-								</header>
-								{{ section.content }}
+					{% if section.image %}
+						<section>
 
-								{% if section.link %}
-									<ul class="actions">
-										<li><a href="{{ section.link | relative_url }}" class="button">{{ section.linktext }}</a></li>
-									</ul>
-								{% endif %}
+							<a href="#" class="image">
+								<img src="{{ section.image | relative_url }}" alt="" data-position="center center" />
+							</a>
 
+							<div class="content">
+								<div class="inner">
+									<header class="major">
+										<h3>{{ section.title }}</h3>
+									</header>
+									{{ section.content }}
+
+									{% if section.link %}
+										<ul class="actions">
+											<li><a href="{{ section.link | relative_url }}" class="button">{{ section.linktext }}</a></li>
+										</ul>
+									{% endif %}
+
+								</div>
 							</div>
-						</div>
-					</section>
+						</section>
+					{% else %}
+					<div class="box">
+						<header class="major">
+							<h3>{{ section.title }}</h3>
+						</header>
+        		{% for download in section.downloads %}
+        			<p>
+            	  <a type="4" href="{{ download.url }}" data-mce-href="{{ download.url }}">{{ download.text }}</a>
+              </p>
+						{% endfor %}
+						<p>{{ section.content }}</p>
+					</div>
+					{% endif %}
 				{% endfor %}
 			</section>
 		{% endif %}
