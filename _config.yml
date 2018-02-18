@@ -42,10 +42,8 @@ tile-pages:
   - team.md
 
 ## running the site locally requires the following settings
-is_vagrant: true
-baseurl: "" # the subpath of your site, e.g. /blog
+# baseurl: "" # the subpath of your site, e.g. /blog
 
 
 ## running the site on gitlab requires the following settings
-is_vagrant: false
 baseurl: "cdc" # the subpath of your site, e.g. /blog

@@ -33,7 +33,7 @@
         {% for section in page.sections %}
 					<section>
 						<a href="#" class="image">
-							<img src="{{ section.image }}" alt="" data-position="center center" />
+							<img src="{{ section.image | relative_url }}" alt="" data-position="center center" />
 						</a>
 						<div class="content">
 							<div class="inner">
