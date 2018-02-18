@@ -22,7 +22,40 @@
 		<header class="major">
 			<h1>{{ page.title }}</h1>
 		</header>
-		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+
+		{% if page.summary %}
+      {{ page.summary }}
+		{% endif %}
+
+		{% if page.sections %}
+			<section id="two" class="spotlights">
+
+        {% for section in page.sections %}
+					<section>
+						<a href="#" class="image">
+							<img src="{{ section.image }}" alt="" data-position="center center" />
+						</a>
+						<div class="content">
+							<div class="inner">
+								<header class="major">
+									<h3>{{ section.title }}</h3>
+								</header>
+								{{ section.content }}
+
+								{% if section.link %}
+									<ul class="actions">
+										<li><a href="{{ section.link }}" class="button">{{ section.linktext }}</a></li>
+									</ul>
+								{% endif %}
+
+							</div>
+						</div>
+					</section>
+				{% endfor %}
+			</section>
+		{% endif %}
+		<!--{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}-->
+
 		<p>{{ content }}</p>
 	</div>
 </section>
