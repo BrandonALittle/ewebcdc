@@ -44,7 +44,7 @@
 
 								{% if section.link %}
 									<ul class="actions">
-										<li><a href="{{ section.link }}" class="button">{{ section.linktext }}</a></li>
+										<li><a href="{{ section.link | relative_url }}" class="button">{{ section.linktext }}</a></li>
 									</ul>
 								{% endif %}
 
