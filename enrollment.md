@@ -2,7 +2,7 @@
 layout: post
 title: Enrollment
 description: Tuition and Policies
-image: assets/images/prek06.jpg
+image: assets/images/prek05.jpg
 nav-menu: true
 order: 3
 ---
