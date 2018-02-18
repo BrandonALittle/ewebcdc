@@ -3,7 +3,6 @@ title: EWEB CDC
 subtitle: 
 email: info@ewebcdc.com
 description: Branching out, Putting down roots, Growing together
-baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 409 High Street
@@ -42,4 +41,11 @@ tile-pages:
   - mission.md
   - team.md
 
+## running the site locally requires the following settings
+is_vagrant: true
+baseurl: "" # the subpath of your site, e.g. /blog
+
+
+## running the site on gitlab requires the following settings
 is_vagrant: false
+baseurl: "cdc" # the subpath of your site, e.g. /blog
