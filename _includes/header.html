@@ -4,7 +4,13 @@
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<!--a href="{{ "" | relative_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a-->
-	<a href="{{ "" | relative_url }}/" class="logo"><img src="/assets/images/logo.jpg"></a>
+
+	{% if site.is_vagrant == true %}
+	  <a href="{{ "" | relative_url }}/" class="logo"><img src="/assets/images/logo.jpg"></a>
+	{% endif %}
+	{% if site.is_vagrant == false %}
+	  <a href="{{ "" | absolute_url }}/" class="logo"><img src="/assets/images/logo.jpg"></a>
+	{% endif %}
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>

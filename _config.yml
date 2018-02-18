@@ -42,3 +42,4 @@ tile-pages:
   - mission.md
   - team.md
 
+is_vagrant: false
