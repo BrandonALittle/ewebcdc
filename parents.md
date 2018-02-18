@@ -2,7 +2,7 @@
 layout: post
 title: Parent Resources
 description: Closures, Forms, and News
-image: assets/images/parents01.jpg
+image: assets/images/parents02.jpg
 nav-menu: true
 order: 5
 
