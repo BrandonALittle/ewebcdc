@@ -20,8 +20,8 @@ summary:
 
 sections:
     - title: Admin Team and Support
-      image: /assets/images/kids01.jpg
-      link: /admin_team.html
+      image: assets/images/kids01.jpg
+      link: admin_team.html
       linktext: Meet Us
       content:
         |
@@ -29,8 +29,8 @@ sections:
         Our leadership team boasts a combined experience of over 75 years in early childhood development.
         </p>
     - title: Infant Team
-      image: /assets/images/infant02.jpg
-      link: /infant.html
+      image: assets/images/infant02.jpg
+      link: infant.html
       linktext: Meet Us
       content:
         |
@@ -38,8 +38,8 @@ sections:
         The infant program provides lots of cuddling, personal attention, and quiet play time appropriate for the babies.  We maintain a low teacher-child ratio (1:3) to provide opportunities for bonding between infants and care givers, meet each child's physical needs, and prevent over-stimulation.  Babies are allowed the freedom to explore without confining equipment such as swings, highchairs or walkers.  Instead, babies are held or put on the carpet to wiggle, roll and exercise their bodies.
         </p>
     - title: Wobbler Team
-      image: /assets/images/infant01.jpg
-      link: /wobbler.html
+      image: assets/images/infant01.jpg
+      link: wobbler.html
       linktext: Meet Us
       content:
         |
@@ -47,8 +47,8 @@ sections:
         Coming Summer 2018. Spaces Avaliable!
         </p>
     - title: Toddler Team
-      image: /assets/images/toddler01.jpg
-      link: /toddler.html
+      image: assets/images/toddler01.jpg
+      link: toddler.html
       linktext: Meet Us
       content:
         |
@@ -56,8 +56,8 @@ sections:
         The toddler program (ages 17 months to 30 months) incorporates numerous group activities for children to develop social and emotional skills.  Circle time, which includes stories read by the teacher and group singing, is a very important part of the toddler's day.  Daily walks give children the opportunity to learn how to cooperate in a group with teachers and explore nature and the neighborhood around the Center.
         </p>
     - title: Preschool Team
-      image: /assets/images/preschool02.jpg
-      link: /preschool.html
+      image: assets/images/preschool02.jpg
+      link: preschool.html
       linktext: Meet Us
       content:
         |
@@ -65,8 +65,8 @@ sections:
         The preschool atmosphere is nurturing, flexible, and respectful.  Children have many opportunities to be social as well as the freedom to choose their own activities.  The classroom is carefully designed to provide a variety of challenging and creative learning experiences.  We believe play is central to young children's learning and the classroom is carefully organized to keep children involved and challenged.
         </p>
     - title: Pre-kindergarten Team
-      image: /assets/images/prek01.jpg
-      link: /prek.html
+      image: assets/images/prek01.jpg
+      link: prek.html
       linktext: Meet Us
       content:
         |

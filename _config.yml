@@ -41,9 +41,5 @@ tile-pages:
   - mission.md
   - team.md
 
-## running the site locally requires the following settings
-# baseurl: "" # the subpath of your site, e.g. /blog
-
-
-## running the site on gitlab requires the following settings
+## running the site on gitlab requires the following setting, comment out when running in vagrant
 baseurl: "cdc" # the subpath of your site, e.g. /blog
