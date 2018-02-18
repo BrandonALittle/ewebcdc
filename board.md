@@ -2,7 +2,7 @@
 layout: post
 title: Board
 description: Volunteer Board of Directors
-image: assets/images/board.jpg
+image: assets/images/board_sm.jpg
 nav-menu: true
 order: 6
 
