@@ -9,7 +9,7 @@ order: 6
 summary:
     |
     <p>
-    EWEB Child Development Center is a private not-for-profit child care center that is governed by a volunteer Board of Directors. Our Board consists of parents with students currently or recently enrolled at our Center. The Board meets the second Thursday of every month, from noon to 1:30 pm.
+    EWEB Child Development Center is a private not-for-profit child care center that is governed by a volunteer Board of Directors. Our Board consists of parents with students currently or recently enrolled at our Center. 
     </p>
     <p>
     We are currently recruiting for our Board. If you are interetested in joining, contact us at: <b>board@ewebcdc.com</b>
