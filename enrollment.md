@@ -40,7 +40,7 @@ sections:
 
     - title: 2018 Tuition Rate Schedule
       downloads:
-      - url: assets/docs/EWEB_CDC_2017_Tuition_Rates.143193316.pdf
+      - url: assets/docs/2018_Tuition.pdf
         text: 2018 Tuition Rates
       content: ""
 ---
