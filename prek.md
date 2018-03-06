@@ -16,7 +16,7 @@ sections:
         </p>
 
     - title: Laylah, Lead Teacher
-      image: /assets/images/no_pic.jpg
+      image: /assets/images/laylah.jpg
       link: team.html
       linktext: Back to Teams
       content:
@@ -25,7 +25,7 @@ sections:
         </p>
 
     - title: Marta
-      image: /assets/images/no_pic.jpg
+      image: /assets/images/marta.jpg
       link: team.html
       linktext: Back to Teams
       content:
@@ -34,7 +34,7 @@ sections:
         </p>
 
     - title: Olena
-      image: /assets/images/no_pic.jpg
+      image: /assets/images/olena.jpg
       link: team.html
       linktext: Back to Teams
       content:

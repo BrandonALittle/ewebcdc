@@ -26,7 +26,7 @@ sections:
 
 
     - title: Gen
-      image: /assets/images/no_pic.jpg
+      image: /assets/images/gen.jpg
       link: team.html
       linktext: Back to Teams
       content:

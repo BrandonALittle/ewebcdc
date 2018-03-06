@@ -6,7 +6,7 @@ image: assets/images/staff_sm.jpg
 
 sections:
     - title: Katie, Lead Teacher
-      image: /assets/images/no_pic.jpg
+      image: /assets/images/katie.jpg
       link: team.html
       linktext: Back to Teams
       content:
@@ -34,7 +34,7 @@ sections:
         </p>
         
     - title: Valerie
-      image: /assets/images/no_pic.jpg
+      image: /assets/images/valerie.jpg
       link: team.html
       linktext: Back to Teams
       content:
@@ -43,7 +43,7 @@ sections:
         </p>
 
     - title: Maribeth
-      image: /assets/images/no_pic.jpg
+      image: /assets/images/maribeth.jpg
       link: team.html
       linktext: Back to Teams
       content:

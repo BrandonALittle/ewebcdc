@@ -16,7 +16,7 @@ sections:
         </p>
 
     - title: Natie
-      image: /assets/images/no_pic.jpg
+      image: /assets/images/natie.jpg
       link: team.html
       linktext: Back to Teams
       content:
@@ -26,7 +26,7 @@ sections:
 
 
     - title: Jodi
-      image: /assets/images/no_pic.jpg
+      image: /assets/images/jodi.jpg
       link: team.html
       linktext: Back to Teams
       content:
