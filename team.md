@@ -2,7 +2,7 @@
 layout: post
 title: Our Center
 description: Leadership, Staff, and Classrooms
-image: assets/images/prek02.jpg
+image: assets/images/prek07.jpg
 order: 1
 nav-menu: true
 
