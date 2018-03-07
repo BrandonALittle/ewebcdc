@@ -26,7 +26,7 @@ sections:
 
 
     - title: Kerry Vill, Assistant Director 
-      image: /assets/images/no_pic.jpg
+      image: /assets/images/kerry.jpg
       link: team.html
       linktext: Back to Teams
       content:
