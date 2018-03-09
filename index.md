@@ -11,4 +11,12 @@ order: 10
 We have a new home!
 ===================
 
-We will be moving to 888 Goodpasture Island Road this spring. 8,000 sq ft of educational space will allow us to increase enrollment and add two new classrooms for wobblers and an after-school program. Open spots are available for late Spring 2018!
+EWEB CDC will move into our new building on 888 Goodpasture Island Road at the beginning of summer, though the actual date is still to be determined. There is a lot of work to be done between now and then and we encourage you to come talk to the Admin Team or the Board Members to find out more.
+
+We will be adding a Wobbler Room for older infants-younger toddlers, and a  Before & After School Program for school age kids from the local neighborhood elementary schools.  We will also be adding Summer Camps! Expect the spots to fill up fast.
+
+The new site has a kitchen and we will continue to provide delicious in-house meals for our children. The playground is huge! It's a beautiful, well-fenced space with brand new playground equipment overlooking the north-end beginnings of the Delta Ponds. There is plenty of parking for drop-offs and pick-ups. 
+
+This is a great opportunity to re-brand our center with complete independence and to enhance our vision and mission in a way that keeps us a quality, well-respected program.  We are excited!  We hope you are, too. 
+
+<b>Open spots are available for late Spring 2018!<b>

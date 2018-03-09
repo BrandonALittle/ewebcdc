@@ -8,7 +8,7 @@ nav-menu: true
 
 sections:
     - title: Lunch
-      image: /assets/images/prek03.jpg
+      image: /assets/images/lunch.jpg
       content:
         |
         <p>
