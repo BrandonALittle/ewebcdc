@@ -3,8 +3,8 @@ layout: post
 title: Board
 description: Volunteer Board of Directors
 image: assets/images/board_sm.jpg
-nav-menu: true
-order: 6
+nav-menu: false
+order: 9
 
 summary:
     |

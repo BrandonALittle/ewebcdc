@@ -3,15 +3,15 @@ layout: post
 title: Employment
 description: Join our team
 image: assets/images/staff02.jpg
-order: 4
+order: 6
 nav-menu: true
 
 summary:
     |
-    <h4>Interested in working for our Child Care Center? Here is what you need to know!</h4>
+    <h4>Interested in working for our center? Here is what you need to know!</h4>
     <ul>
      <li>
-     All staff must be must be enrolled in the Oregon Child Care Division's Central Background Registry prior to employment.
+     All staff must be enrolled in the Oregon Child Care Division's Central Background Registry prior to employment.
      </li>
      <li>
      All staff must have a current food handler certification within the first 30 days of employment.﻿
@@ -51,7 +51,7 @@ sections:
       content:
         |
         <p>
-        To apply for one of the above posted positions, please first ensure you meet the qualifications by reviewing the job annoucements above. Submit your resume and three professional references to <b>jobs@ewebcdc.com</b>
+        To apply for a position, please first ensure you meet the qualifications by reviewing the job annoucements above. Submit your resume and three professional references to <b>jobs@ewebcdc.com</b>.
         Please indicate in your email the position/s for which you would like to be considered.
         </p>
 
