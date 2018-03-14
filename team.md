@@ -73,7 +73,7 @@ sections:
         <p>
         This program provides a unique learning environment for ages 4-6 years.  The focus is on choosing age appropriate activities that are challenging and will help the children be excited about learning. To help children prepare for kindergarten, the class is divided into small groups with each lead teacher to work on math, literacy, writing, and other skills. Children who are kindergarten age (age 5 by September 1) are provided a special kindergarten curriculum each afternoon that aligns with common core standards.
         </p>
-    - title: After school Care
+    - title: After School Care
       image: assets/images/classroom2_sm.jpg
       link: after_school.html
       linktext: Meet the Team
