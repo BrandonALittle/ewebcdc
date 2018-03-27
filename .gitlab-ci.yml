@@ -11,11 +11,9 @@ pages:
   stage: deploy
   script:
   - bundle exec jekyll build -d public
-  - mkdir newPublicFolder
-  - mv public/* newPublicFolder
   artifacts:
     paths:
-    - newPublicFolder
+    - public
   only:
   - master
 
