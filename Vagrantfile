@@ -23,7 +23,7 @@ Vagrant.configure(2) do |config|
   # Base box
   config.vm.define :project do |project_config|
     project_config.vm.synced_folder ".", "/opt/project"
-    project_config.vm.network :forwarded_port, host: 80, guest: 4000
+    project_config.vm.network :forwarded_port, host: 80, guest: 4000  
 
     project_config.vm.provision :shell, :inline => "apt-get update && apt-get -y install ruby ruby-dev g++ libffi-dev", :privileged => true
     project_config.vm.provision :shell, :inline => "gem install jekyll bundle", :privileged => true

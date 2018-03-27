@@ -8,15 +8,49 @@ author: null
 order: 10
 ---
 
-We have a new home!
-===================
 
+
+<section id="one" class="spotlights">
+<section>
+
+<p style="width: 40%">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2865.863387613007!2d-123.10699618448821!3d44.086173979108786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54c0e2758964a9a5%3A0xaee54d3b74bca13a!2s888+Goodpasture+Island+Rd%2C+Eugene%2C+OR+97401!5e0!3m2!1sen!2sus!4v1522187360499" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
+<div class="content">
+<div class="inner">
+<header class="major">
+    <h1>We have a new home!</h1>
+</header>
+<p>
 EWEB CDC will move into our new building on 888 Goodpasture Island Road at the beginning of summer, though the actual date is still to be determined. There is a lot of work to be done between now and then and we encourage you to come talk to the Admin Team or the Board Members to find out more.
+<b>Open spots are available for late Spring 2018!</b>
+</p>
+<ul class="actions">
+    <li><a href="888.html" class="button">Learn more!</a></li>
+</ul>
+</div>
+</div>
+</section>
 
-We will be adding a Wobbler Room for older infants-younger toddlers, and a  Before & After School Program for school age kids from the local neighborhood elementary schools.  We will also be adding Summer Camps! Expect the spots to fill up fast.
 
-The new site has a kitchen and we will continue to provide delicious in-house meals for our children. The playground is huge! It's a beautiful, well-fenced space with brand new playground equipment overlooking the north-end beginnings of the Delta Ponds. There is plenty of parking for drop-offs and pick-ups. 
+        
+<section>
 
-This is a great opportunity to re-brand our center with complete independence and to enhance our vision and mission in a way that keeps us a quality, well-respected program.  We are excited!  We hope you are, too. 
-
-<b>Open spots are available for late Spring 2018!<b>
+<a href="#" class="image">
+    <img src="assets/images/camp.jpg" alt="" data-position="center center" />
+</a>
+<div class="content">
+<div class="inner">
+<header class="major">
+    <h1>Summer Camp 2018!</h1>
+</header>
+<p>
+This year we will be hosting our first ever summer camp! <b>Spots available now!</b>
+</p>
+<ul class="actions">
+    <li><a href="camp.html" class="button">Learn more!</a></li>
+</ul>
+</div>
+</div>
+</section>
+</section>
