@@ -22,6 +22,10 @@ Our summer camp program offers children 5-11 years old enriching learning opport
 
 ### Schedule
 
+<p>
+<a type="4" href="assets/docs/summer_camp_2018_v6.pdf" data-mce-href="summer_camp_2018_v6.pdf">Download our brochure here</a>
+</p>
+
 * Week 1 - Summer Kick Off – Creating your own T-shirt
 * Week 2 - Oregon History Detectives – Exploration of Downtown Eugene
 * Week 3 - (no camp on July 4),  Red, White, Blue, and You – Disc golfing at Alton Baker Park
@@ -29,7 +33,7 @@ Our summer camp program offers children 5-11 years old enriching learning opport
 * Week 5 - Ducks ‘R Us – Touring the famous AUZTEN Stadium
 * Week 6 - Art Palooza – Imagination unbind and unlimited visiting MECCA
 * Week 7 - Amazing Planet – Hiking Spencer Butte
-* Week 8 - Musical Madness – Music at the Shedd with Maribeth
+* Week 8 - Musical Madness – Music with Maribeth
 * Week 9 - Summer 911 – Visiting the Fire Station
 * Week 10 - Back to the Future – Field trip to Oregon Air and Space Museum
 * Week 11 - Bon Voyage – End of summer party at Splash!
