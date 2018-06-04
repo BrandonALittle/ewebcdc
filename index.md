@@ -39,10 +39,10 @@ This year we will be hosting our first ever summer camp! <b>Spots available now!
 <div class="content">
 <div class="inner">
 <header class="major">
-    <h1>We have a new home!</h1>
+    <h1>We have moved!</h1>
 </header>
 <p>
-EWEB CDC will move into our new building on 888 Goodpasture Island Road at the beginning of summer, though the actual date is still to be determined. There is a lot of work to be done between now and then and we encourage you to come talk to the Admin Team or the Board Members to find out more.
+EWEB CDC has moved into our new building on 888 Goodpasture Island Road.
 <b>Open spots are available for late Spring 2018!</b>
 </p>
 <ul class="actions">
