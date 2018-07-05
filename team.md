@@ -35,7 +35,7 @@ sections:
       content:
         |
         <p>
-        The infant program provides lots of cuddling, personal attention, and quiet play time appropriate for the babies.  We maintain a low teacher-child ratio (1:3) to provide opportunities for bonding between infants and care givers, meet each child's physical needs, and prevent over-stimulation.  Babies are allowed the freedom to explore without confining equipment such as swings, highchairs or walkers.  Instead, babies are held or put on the carpet to wiggle, roll and exercise their bodies.
+        The infant program provides lots of cuddling, personal attention, and quiet play time appropriate for the babies.  We maintain a low teacher-child ratio to provide opportunities for bonding between infants and care givers, meet each child's physical needs, and prevent over-stimulation.  Babies are allowed the freedom to explore without confining equipment such as swings, highchairs or walkers.  Instead, babies are held or put on the carpet to wiggle, roll and exercise their bodies. We also have a covered outdoor area specifically for the infants to explore safely.
         </p>
     - title: Wobbler Room
       image: assets/images/infant01.jpg
@@ -53,7 +53,7 @@ sections:
       content:
         |
         <p>
-        The toddler program (ages 17 months to 30 months) incorporates numerous group activities for children to develop social and emotional skills.  Circle time, which includes stories read by the teacher and group singing, is a very important part of the toddler's day.  Daily walks give children the opportunity to learn how to cooperate in a group with teachers and explore nature and the neighborhood around the Center.
+        The toddler program incorporates numerous group activities for children to develop social and emotional skills.  Circle time, which includes stories read by the teacher and group singing, is a very important part of the toddler's day.  Daily walks give children the opportunity to learn how to cooperate in a group with teachers and explore nature and the neighborhood around the Center.
         </p>
     - title: Preschool Room
       image: assets/images/preschool02.jpg
@@ -80,7 +80,7 @@ sections:
       content:
         |
         <p>
-        Coming Soon Fall 2018. Spaces Available!
+        Our after school program offers enriching learning opportunities in a fun activity based environment for elementary school age children. In addition to supporting what children learn in school they will also form long lasting friendships that enhance their development growth, and self-confidence.  
         </p>
 
 

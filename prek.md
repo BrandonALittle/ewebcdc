@@ -15,15 +15,6 @@ sections:
         Natanya has worked at the center since 2006. Natanya has an Associate of Arts Degree in Early Childhood Education. She lives with her mother and two cats. Natanya spends most of her spare time reading or with her three close friends and three god-daughters, Lizzie, Josie, and Sophie.
         </p>
 
-    - title: Laylah, Lead Teacher
-      image: /assets/images/laylah.jpg
-      link: team.html
-      linktext: Back to Teams
-      content:
-        <p>
-        Laylah recently joined us at the Center, beginning in the Infant Room and quickly transitioning to Lead Teacher in PreK at the end of August 2017.  Laylah went to school at Lane Community College with a focus in Early Childhood Education, and has over ten years experience working with children of all ages.  Laylah enjoys crafts, do-it-yourself projects and walking her Great Dane Nahlah at the Candlelight Dog Park.
-        </p>
-
     - title: Marta
       image: /assets/images/marta.jpg
       link: team.html

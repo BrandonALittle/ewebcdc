@@ -11,6 +11,8 @@ sections:
       downloads:
       - url: assets/docs/2018_Tuition.pdf
         text: 2018 Tuition Rates
+      - url: assets/docs/after_school_2018.pdf
+        text: After School Care Enrollment Form
       - url: assets/docs/Dropin_form.301110832.pdf
         text: Drop-In Hours Request Form
       - url: assets/docs/Schedule_change_request.301110903.pdf

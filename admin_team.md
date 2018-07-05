@@ -6,7 +6,7 @@ image: assets/images/no_pic.jpg
 
 sections:
     - title: Elaine Warkel, Interim Director 
-      image: /assets/images/no_pic.jpg
+      image: /assets/images/elaine.jpg
       link: team.html
       linktext: Back to Teams
       content:
