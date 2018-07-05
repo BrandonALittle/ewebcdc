@@ -44,7 +44,7 @@ sections:
       content:
         |
         <p>
-        Coming Summer 2018. Spaces Avaliable!
+        Spaces Avaliable!
         </p>
     - title: Toddler Room
       image: assets/images/toddler01.jpg
