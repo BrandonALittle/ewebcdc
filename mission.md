@@ -12,7 +12,7 @@ sections:
       content:
         |
         <p>
-        Eugene CDC is a private not-for-profit child care center that was established in 1988 for Eugene employees and the general public. Our mission is to provide a warm, safe, and healthy environment where everyone is accepted and respected, and growth and learning are nurtured.
+        Eugene CDC is a private not-for-profit child care center that was established in 1988 for Eugene CDC employees and the general public. Our mission is to provide a warm, safe, and healthy environment where everyone is accepted and respected, and growth and learning are nurtured.
         </p>
         <p>
         We strive to make learning natural, enjoyable, and active. We provide materials, activities, and a physical setting that encourage children to act on their ideas and problem solve individually or in small groups.
