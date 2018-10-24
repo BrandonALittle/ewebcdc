@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'EWEB Child Development Center'
+landing-title: 'Eugene Child Development Center'
 description: null
 image: null
 author: null

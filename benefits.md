@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why EWEB
+title: Why Eugene CDC
 description: What sets us apart
 image: assets/images/kids04.jpg
 order: 1

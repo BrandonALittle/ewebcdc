@@ -35,7 +35,7 @@ sections:
       content:
         |
         <p>
-        EWEB Child Development Center is an equal opportunity provider.
+        Eugene Child Development Center is an equal opportunity provider.
         
         We accept resumes for posted positions only. See below for our current openings.
 
