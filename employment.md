@@ -39,7 +39,7 @@ sections:
         
         We accept resumes for posted positions only. See below for our current openings.
 
-        EWEB CDC is currently accepting resumes for the following positions:
+        Eugene CDC is currently accepting resumes for the following positions:
 
         <h4>Substitute Teacher (full and part-time)</h4>
 

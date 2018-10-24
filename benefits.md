@@ -12,7 +12,7 @@ sections:
       content:
         |
         <p>
-        EWEB CDC offers healthy and nutritionally balanced meals throughout the day.  With an in-house cook, the Center provides a full breakfast, lunch and afternoon snack, all included in the standard tuition cost.  The Center meets all USDA standards on nutritional guidelines.
+        Eugene CDC offers healthy and nutritionally balanced meals throughout the day.  With an in-house cook, the Center provides a full breakfast, lunch and afternoon snack, all included in the standard tuition cost.  The Center meets all USDA standards on nutritional guidelines.
         </p>
 
     - title: Enhancement Activities

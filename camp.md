@@ -75,6 +75,6 @@ Any cancellation within 3 days before the first day of the registered camp (incl
 <a type="4" href="assets/docs/summer_camp_reg_2018.pdf" data-mce-href="summer_camp_reg_2018.pdf">Download our registration form here</a>
 </p>
 
-<b>Space is limited. Please print the Registration Form and submit to our office.  Please note that EWEB CDC is moving to 888 Goodpasture Island Rd, Eugene, OR in May/June 2018.</b>
+<b>Space is limited. Please print the Registration Form and submit to our office.  Please note that Eugene CDC is moving to 888 Goodpasture Island Rd, Eugene, OR in May/June 2018.</b>
 
 <b>Camp registration is accepted at the current 409 High Street address before May 14, 2018. Beginning on May 14, 2018, please call 541-341-8575, visit http://www.ewebcdc.com, or email info@ewebcdc.com for update to make sure you are sending the Registration Form and payment to the correct address.</b>

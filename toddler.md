@@ -12,7 +12,7 @@ sections:
       content:
         |
         <p>
-        Katie has been with EWEB CDC since February of 2017.  She has over 9 years experience working with children and has taken numerous courses in Early Childhood Education at Lane Community College.  In her spare time, she loves to paint and dance.
+        Katie has been with Eugene CDC since February of 2017.  She has over 9 years experience working with children and has taken numerous courses in Early Childhood Education at Lane Community College.  In her spare time, she loves to paint and dance.
         </p>
 
     - title: Fatemeh
@@ -21,7 +21,7 @@ sections:
       linktext: Back to Teams
       content:
         <p>
-        Fatemeh began working with EWEB CDC for a year in 2003, and returned permanently to work in our Toddler Room in 2011.  She has her AA degree in Early Childhood Education from Lane Community College and over seventeen years experience working with children.  She enjoys sewing, baking, taking walks and playing with her grandchild.
+        Fatemeh began working with Eugene CDC for a year in 2003, and returned permanently to work in our Toddler Room in 2011.  She has her AA degree in Early Childhood Education from Lane Community College and over seventeen years experience working with children.  She enjoys sewing, baking, taking walks and playing with her grandchild.
         </p>
         
     - title: Valerie

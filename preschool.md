@@ -21,7 +21,7 @@ sections:
       linktext: Back to Teams
       content:
         <p>
-        Natie was hired in 2001 and has blessed EWEB CDC with 16 years of loyal service.  She has over 24 years of experience working with children, plus she raised triplet sons!  She is now a grandmother of five. She has her Associates of Arts Degree in Early Childhood Education from Lane Community College﻿.  She loves to read, crochet and do arts & crafts of all sorts.  She also loves to hike and bike with her husband Chris and their two black Lab dogs.﻿
+        Natie was hired in 2001 and has blessed Eugene CDC with 16 years of loyal service.  She has over 24 years of experience working with children, plus she raised triplet sons!  She is now a grandmother of five. She has her Associates of Arts Degree in Early Childhood Education from Lane Community College﻿.  She loves to read, crochet and do arts & crafts of all sorts.  She also loves to hike and bike with her husband Chris and their two black Lab dogs.﻿
         </p>
 
 

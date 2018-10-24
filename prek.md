@@ -21,7 +21,7 @@ sections:
       linktext: Back to Teams
       content:
         <p>
-        Marta has been with EWEB CDC since 2016.  She works in the mornings in our PreK classroom, helps out in every classroom in the afternoons or helps keep our Center clean and tidy.  She has over 14 years experience working with preschool aged children.  She attended Portland State University and has taken numerous classes in Early Childhood Education.  She is bilingual and speaks fluent Spanish. She loves to travel, garden and to relax in her spare time.
+        Marta has been with Eugene CDC since 2016.  She works in the mornings in our PreK classroom, helps out in every classroom in the afternoons or helps keep our Center clean and tidy.  She has over 14 years experience working with preschool aged children.  She attended Portland State University and has taken numerous classes in Early Childhood Education.  She is bilingual and speaks fluent Spanish. She loves to travel, garden and to relax in her spare time.
         </p>
 
     - title: Olena

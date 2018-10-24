@@ -9,7 +9,7 @@ order: 3
 summary:
     |
     <p>
-    EWEB CDC maintains a wait list and enrolls new children on a rolling basis. Priority is given to families with a child currently enrolled in the center, and then we open it up for community members. We have an extensive waiting list, especially for the younger ages. If you are interested in joining our community, please let us know and we'd be happy to set up a tour. 
+    Eugene CDC maintains a wait list and enrolls new children on a rolling basis. Priority is given to families with a child currently enrolled in the center, and then we open it up for community members. We have an extensive waiting list, especially for the younger ages. If you are interested in joining our community, please let us know and we'd be happy to set up a tour. 
     </p>
     <h4>WE ARE CURRENTLY ENROLLING IN OUR PRESCHOOL AND PRE-K CLASSROOMS!</h4>
 
@@ -23,7 +23,7 @@ sections:
       content:
         |
         <p>
-        If you would like to add your child's name to the wait list following your tour, you will be required to pay a one-time, non-refundable fee of $50. We can accept a check made out to EWEB CDC or cash in exact change.﻿
+        If you would like to add your child's name to the wait list following your tour, you will be required to pay a one-time, non-refundable fee of $50. We can accept a check made out to Eugene CDC or cash in exact change.﻿
         </p>
         <p>
         You will remain on the wait list until you are offered a spot in the program, or until you let us know that you would like to be removed.

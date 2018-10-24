@@ -60,7 +60,7 @@ Summer Camp for school age children. Spots Available!
     <h1>We have moved!</h1>
 </header>
 <p>
-EWEB CDC has moved into our new building on 888 Goodpasture Island Road.
+Eugene CDC has moved into our new building on 888 Goodpasture Island Road.
 </p>
 <ul class="actions">
     <li><a href="888.html" class="button">Learn more!</a></li>

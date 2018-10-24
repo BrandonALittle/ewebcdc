@@ -15,7 +15,7 @@ summary:
     Consistent staff with a very low-turnover is another one of the hallmarks of our center. A large portion of our teachers have worked at the center for between ten and twenty years. 
     </p>
     <p>
-    We also have low child-to-teacher ratios, ensuring our students receive plenty of individual attention throughout the day. Human bonding and loving attention are critical to the development of a child's self-concept. Recognizing these significant qualities, EWEB CDC takes steps to ensure staff stability and continuity of care.
+    We also have low child-to-teacher ratios, ensuring our students receive plenty of individual attention throughout the day. Human bonding and loving attention are critical to the development of a child's self-concept. Recognizing these significant qualities, Eugene CDC takes steps to ensure staff stability and continuity of care.
     </p>
 
 sections:

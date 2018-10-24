@@ -12,7 +12,7 @@ sections:
       content:
         |
         <p>
-        EWEB CDC is a private not-for-profit child care center that was established in 1988 for EWEB employees and the general public. Our mission is to provide a warm, safe, and healthy environment where everyone is accepted and respected, and growth and learning are nurtured.
+        Eugene CDC is a private not-for-profit child care center that was established in 1988 for EWEB employees and the general public. Our mission is to provide a warm, safe, and healthy environment where everyone is accepted and respected, and growth and learning are nurtured.
         </p>
         <p>
         We strive to make learning natural, enjoyable, and active. We provide materials, activities, and a physical setting that encourage children to act on their ideas and problem solve individually or in small groups.
@@ -26,7 +26,7 @@ sections:
         The teacher’s role is to nurture the child’s natural curiosity and facilitate the child’s efforts to learn, develop a sense of self, and to interact with the group. Our teachers promote the needs and interests of individual children as well as the group as a whole.
         </p>
         <p>
-        Our teachers make up the backbone of the extended family of EWEB CDC. We strive to attract and retain positive, sensitive staff members with training and experience in early childhood development and education. We maintain an environment in which staff is valued, respected, and supported.
+        Our teachers make up the backbone of the extended family of Eugene CDC. We strive to attract and retain positive, sensitive staff members with training and experience in early childhood development and education. We maintain an environment in which staff is valued, respected, and supported.
         </p>
     - title: Philosophy
       image: /assets/images/kids03.jpg

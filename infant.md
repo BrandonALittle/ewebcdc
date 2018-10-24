@@ -21,7 +21,7 @@ sections:
       linktext: Back to Teams
       content:
         <p>
-        Michelle has worked at EWEB CDC since 1995 and has an Associates of Arts Degree in Early Childhood Education from Lane Community College﻿. She is married to her wonderful husband David and has a son, Tyler, who loves all sports. Her favorite activities are bowling and shopping.
+        Michelle has worked at Eugene CDC since 1995 and has an Associates of Arts Degree in Early Childhood Education from Lane Community College﻿. She is married to her wonderful husband David and has a son, Tyler, who loves all sports. Her favorite activities are bowling and shopping.
         </p>
 
 
@@ -31,7 +31,7 @@ sections:
       linktext: Back to Teams
       content:
         <p>
-        Gen joined the EWEB CDC family in May of 2016.  She has taken some university classes in Early Childhood Education and enjoys participating in Community-based training workshops.  She likes to walk along the River Trail, ride her bike, hike on Skinner's Butte and especially likes to spend time with her family.  She adores musicals.
+        Gen joined the Eugene CDC family in May of 2016.  She has taken some university classes in Early Childhood Education and enjoys participating in Community-based training workshops.  She likes to walk along the River Trail, ride her bike, hike on Skinner's Butte and especially likes to spend time with her family.  She adores musicals.
         </p>
 
 
